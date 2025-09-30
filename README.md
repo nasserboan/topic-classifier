@@ -21,9 +21,10 @@ graph TB
     J --> G
     G -->|Cosine Similarity<br/>+ Language Filter| K[Top-K Topics]
     
-    style G fill:#f9f,stroke:#333,stroke-width:2px
-    style E fill:#bbf,stroke:#333,stroke-width:2px
-    style I fill:#bfb,stroke:#333,stroke-width:2px
+    style G fill:#d62728,stroke:#333,stroke-width:2px,color:#fff
+    style E fill:#1f77b4,stroke:#333,stroke-width:2px,color:#fff
+    style I fill:#2ca02c,stroke:#333,stroke-width:2px,color:#fff
+    style C fill:#ff7f0e,stroke:#333,stroke-width:2px,color:#fff
 ```
 
 ## Approach
